@@ -15,6 +15,8 @@ The objective is to:
 ## 📁 Dataset:
 - The dataset contains detailed shipment-level information generated from Delhivery’s logistics operations.
 
+https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/551/original/delhivery_data.csv?1642751181
+
    Key Features:
 
 - data: tells whether the data is testing or training data

@@ -29,7 +29,7 @@ Each project includes:
 - Business recommendations
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Scipy, Statsmodels)
 - SQL
 - Statistics & Probability
 - Machine Learning

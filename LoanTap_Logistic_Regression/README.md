@@ -23,6 +23,11 @@ This case study will focus on the underwriting process behind Personal Loan only
 
 # **📊 Dataset Overview**
 
+## Note:
+The original dataset exceeds GitHub’s file size limit. The full dataset can be shared upon request.
+
+📥 Full dataset available here: [https://drive.google.com/file/d/1ZPYj7CZCfxntE8p2Lze_4QO4MyEOy6_d/view]
+
 **Target Variable: loan_status (Binary classification: Fully Paid vs Charged Off)**
 
 ##  **Dataset Data dictionary:**
